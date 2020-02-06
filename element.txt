@@ -1,0 +1,8 @@
+1 H
+1 HYDROGEN
+1 1.00
+1 its a chemical element
+1 its is light
+1 it is not alkali nor metal
+2 He
+2 HELIUM
