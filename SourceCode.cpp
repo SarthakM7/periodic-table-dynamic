@@ -6,10 +6,6 @@ using namespace std;
 void display(string atomicNumber)
 {
 
-	//bakc part22222#
-	//changeslolololol#
-	//part2lololol#
-
 	fstream myFile("element.txt",ios::out | ios::in);
 	int count = 1;
 	cout<<"Atomic Number : "<<atomicNumber<<endl;
