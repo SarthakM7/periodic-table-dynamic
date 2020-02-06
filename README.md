@@ -4,3 +4,4 @@ You can add and view some important properties as well to display them as per re
 The source code for this project is complete and totally error free
 The C source code is simple and understandable.
 We welcome any feedback and suggestions. 
+You do need to pull/download the "mine" branch at all. Only pull/download the master branch.
